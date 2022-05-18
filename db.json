@@ -1,0 +1,14 @@
+{
+    "name": "<NAME>",
+    "publisher": "<PUBLISHER>",
+    "version": "0.0.1",
+    "version_code": 1,
+    "database": [],
+    "widgets": [],
+    "language": "php",
+    "status": 0,
+    "service": "",
+    "supportedLiman": "<SUPPORTED_LIMAN>",
+    "support": "<SUPPORT>",
+    "icon": ""
+}

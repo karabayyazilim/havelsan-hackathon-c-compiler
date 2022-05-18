@@ -1,0 +1,1 @@
+// Insert JavaScript without Blade here
